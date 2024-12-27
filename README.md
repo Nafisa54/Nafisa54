@@ -1,4 +1,5 @@
-# Hi, I'm Nafisat! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Hi, I'm <Nafisat Aliyu Isah>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+
 
 
 I am passionate about Data for social good, a fellow in two prestigious ClickOnKaduna Data Science Fellowship and Arewa Data Science Fellowship respectively. Driven by a curiosity for technology and a love for data. My journey involves delving into data engineering, exploring new ideas, and sharing my insights with the community.
